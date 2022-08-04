@@ -1,0 +1,23 @@
+{
+    "feature": "master",
+    "repos": [
+        {
+            "name": "test_repo_1",
+            "branch": "master",
+            "master_branch": "master",
+            "local_rpath": "repos/test_repo_1"
+        },
+        {
+            "name": "test_repo_2",
+            "branch": "master",
+            "master_branch": "master",
+            "local_rpath": "repos/test_repo_2"
+        },
+        {
+            "name": "test_repo_3",
+            "branch": "master",
+            "master_branch": "master",
+            "local_rpath": "repos/test_repo_3"
+        }
+    ]
+}
